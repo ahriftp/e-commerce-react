@@ -1,6 +1,11 @@
+// Packages
 import React from 'react'
 import { Row, Col } from 'react-bootstrap'
+
+// Components
 import Product from '../components/Product'
+
+// Dummy Data
 import products from '../products'
 
 const HomeScreen = () => {
