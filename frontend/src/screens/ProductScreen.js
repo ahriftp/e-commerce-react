@@ -13,7 +13,7 @@ import Loader from '../components/Loader'
 import Message from '../components/Message'
 
 const ProductScreen = ({ match, history }) => {
-    const [qty, setQty] = useState(0)
+    const [qty, setQty] = useState(1)
 
     // match.params.id => This id is fetched from the URL. Defined in App.js "/product/:id".
     const dispatch = useDispatch()
