@@ -1,3 +1,5 @@
 # e-commerce MERN project
 
-## Project built to learn MongoDB, Express, React (+ Redux) and NodeJS (MERN stack)
+## Project to learn the MERN stack
+
+Learning how to build a fullstack application by following videos on Packt and Youtube.
